@@ -45,6 +45,7 @@ Android程序员，最痛苦的莫过于iOSDesign的UI设计了，收藏一些iO
 <p>
    <img src="https://github.com/DayS/uitableview4android/wiki/img/example_result.png" width="320" alt="Screenshot"/>
 </p>
+</br>
 ##6.iOS Contact ListView for Android
 模仿iOS的通讯录，包含以下特点：</br>
  
@@ -56,3 +57,8 @@ Android程序员，最痛苦的莫过于iOSDesign的UI设计了，收藏一些iO
 <p>
    <img src="https://camo.githubusercontent.com/eed2d40ec79f136fd83335807f9dfd83d8f976e3/68747470733a2f2f7261772e6769746875622e636f6d2f74686568756e673131312f436f6e746163744c697374566965772f6d61737465722f64656d6f5f696d616765732f636f6e746163745f6c6973745f766965775f312e706e67" width="320" alt="Screenshot"/>
 </p>
+##7.ATableView
+模仿iOS的UITableView</br>
+项目地址：https://github.com/dmacosta/ATableView</br>
+![](https://camo.githubusercontent.com/5cbc47c9ac3db34cc41451bbf4a430c59e4c83b4/687474703a2f2f6f6934352e74696e797069632e636f6d2f7673686e32782e6a7067)
+</br>
