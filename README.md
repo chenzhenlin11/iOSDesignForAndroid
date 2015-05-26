@@ -45,3 +45,14 @@ Android程序员，最痛苦的莫过于iOSDesign的UI设计了，收藏一些iO
 <p>
    <img src="https://github.com/DayS/uitableview4android/wiki/img/example_result.png" width="320" alt="Screenshot"/>
 </p>
+##6.iOS Contact ListView for Android
+模仿iOS的通讯录，包含以下特点：</br>
+ 
+- 搜索框
+- 列表索引
+- 选中的头部效果
+
+项目地址：https://github.com/thehung111/ContactListView
+<p>
+   <img src="https://camo.githubusercontent.com/eed2d40ec79f136fd83335807f9dfd83d8f976e3/68747470733a2f2f7261772e6769746875622e636f6d2f74686568756e673131312f436f6e746163744c697374566965772f6d61737465722f64656d6f5f696d616765732f636f6e746163745f6c6973745f766965775f312e706e67" width="320" alt="Screenshot"/>
+</p>
