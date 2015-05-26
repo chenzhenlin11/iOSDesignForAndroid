@@ -62,3 +62,16 @@ Android程序员，最痛苦的莫过于iOSDesign的UI设计了，收藏一些iO
 项目地址：https://github.com/dmacosta/ATableView</br>
 ![](https://camo.githubusercontent.com/5cbc47c9ac3db34cc41451bbf4a430c59e4c83b4/687474703a2f2f6f6934352e74696e797069632e636f6d2f7673686e32782e6a7067)
 </br>
+##8.XButton-android
+模仿iOS的按钮点击效果，实现原理是简单的在按钮背景加一个蒙层，实现变灰的效果</br>
+项目地址：https://github.com/dmacosta/ATableView</br>
+<p>
+   <img src="https://raw.githubusercontent.com/chenzhenlindx/iOSDesignForAndroid/master/images/XButton-android_1.png" width="320" alt="Screenshot"/>
+   &nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/chenzhenlindx/iOSDesignForAndroid/master/images/XButton-android_2.png" width="320" alt="Screenshot"/>
+   &nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/chenzhenlindx/iOSDesignForAndroid/master/images/XButton-android_3.png" width="320" alt="Screenshot"/>
+   &nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/chenzhenlindx/iOSDesignForAndroid/master/images/XButton-android_4.png" width="320" alt="Screenshot"/>
+</p>
+</br>
