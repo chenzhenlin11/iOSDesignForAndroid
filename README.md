@@ -64,7 +64,7 @@ Android程序员，最痛苦的莫过于iOSDesign的UI设计了，收藏一些iO
 </br>
 ##8.XButton-android
 模仿iOS的按钮点击效果，实现原理是简单的在按钮背景加一个蒙层，实现变灰的效果</br>
-项目地址：https://github.com/dmacosta/ATableView</br>
+项目地址：https://github.com/Maxwin-z/XButton-android</br>
 <p>
    <img src="https://raw.githubusercontent.com/chenzhenlindx/iOSDesignForAndroid/master/images/XButton-android_1.png" width="320" alt="Screenshot"/>
    &nbsp;&nbsp;
@@ -73,5 +73,27 @@ Android程序员，最痛苦的莫过于iOSDesign的UI设计了，收藏一些iO
    <img src="https://raw.githubusercontent.com/chenzhenlindx/iOSDesignForAndroid/master/images/XButton-android_3.png" width="320" alt="Screenshot"/>
    &nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/chenzhenlindx/iOSDesignForAndroid/master/images/XButton-android_4.png" width="320" alt="Screenshot"/>
+</p>
+</br>
+##9.SHSwitchView
+IOS7 风格的Switch开关</br>
+项目地址：https://github.com/7heaven/SHSwitchView</br>
+<p>
+   <img src="https://github.com/7heaven/SHSwitchView/raw/master/arts/art1.gif" width="320" alt="Screenshot"/>
+   &nbsp;&nbsp;
+   <img src="https://github.com/7heaven/SHSwitchView/raw/master/arts/art3.gif" width="320" alt="Screenshot"/>
+   &nbsp;&nbsp;
+   <img src="https://github.com/7heaven/SHSwitchView/raw/master/arts/art4.gif" width="320" alt="Screenshot"/>
+   &nbsp;&nbsp;
+   <img src="https://github.com/7heaven/SHSwitchView/raw/master/arts/art5.gif" width="320" alt="Screenshot"/>
+</p>
+</br>
+##10.TreeView
+An android ExpandListView like IOS's TreeView.</br>
+项目地址：https://github.com/MarkMjw/TreeView</br>
+<p>
+   <img src="https://camo.githubusercontent.com/b3cfddf663748ce8d54a8187d92ff73ac74e3db3/68747470733a2f2f7261772e6769746875622e636f6d2f4d61726b4d6a772f54726565566965772f6d61737465722f53637265656e53686f74732f302e706e67" width="320" alt="Screenshot"/>
+   &nbsp;&nbsp;
+   <img src="https://camo.githubusercontent.com/213c0f81bd9dff7365ce23985ba34ce01de1d35d/68747470733a2f2f7261772e6769746875622e636f6d2f4d61726b4d6a772f54726565566965772f6d61737465722f53637265656e53686f74732f312e706e67" width="320" alt="Screenshot"/>  
 </p>
 </br>
