@@ -1,8 +1,11 @@
 #iOSDesignForAndroid
 Android程序员，最痛苦的莫过于iOSDesign的UI设计了，收藏一些iOS风格的Android代码
 
-1.android-pulltorefresh</br>
-一个强大的拉动刷新开源项目，支持各种控件下拉刷新，ListView、ViewPager、WebView、ExpandableListView、GridView、ScrollView、Horizontal ScrollView、Fragment上下左右拉动刷新，比下面johannilsson那个只支持ListView的强大的多。并且它实现的下拉刷新ListView在item不足一屏情况下也不会显示刷新提示，体验更好。</br>
-项目地址：https://github.com/chrisbanes/Android-PullToRefresh</br>
-Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refreshview-demo.apk?raw=true</br>
-APP示例：新浪微博各个页面
+##1.ActionSheetForAndroid</br>
+模仿IOS里面的UIActionSheet控件，有iOS6和iOS7两种风格，可以自定义风格，背景图片、按钮图片、文字颜色、间距等。</br>
+项目地址：https://github.com/baoyongzhang/ActionSheetForAndroid</br>
+<p>
+   <img src="https://raw.githubusercontent.com/baoyongzhang/ActionSheetForAndroid/master/screenshot-1.png" width="320" alt="Screenshot"/>
+   &nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/baoyongzhang/ActionSheetForAndroid/master/screenshot-2.png" width="320" alt="Screenshot"/>
+</p>
