@@ -1,5 +1,9 @@
 #iOSDesignForAndroid
-Android程序员，最痛苦的莫过于iOSDesign的UI设计了，收藏一些iOS风格的Android代码
+Android程序员，最痛苦的莫过于iOSDesign的UI设计了，收藏一些iOS风格的Android代码</br>
+###qq群：257524154</br>
+![](https://raw.githubusercontent.com/chenzhenlindx/iOSDesignForAndroid/master/images/qq.png)</br>
+###博客：http://blog.csdn.net/chenzhenlindx
+###github：https://github.com/chenzhenlindx
 
 ##1.ActionSheetForAndroid</br>
 模仿IOS里面的UIActionSheet控件，有iOS6和iOS7两种风格，可以自定义风格，背景图片、按钮图片、文字颜色、间距等。</br>
